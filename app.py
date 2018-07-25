@@ -4,7 +4,7 @@ import subprocess
 
 from flask import Flask
 from flask import request
-from flask import send_file, make_response
+from flask import make_response
 
 
 app = Flask(__name__)
